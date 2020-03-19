@@ -1,11 +1,8 @@
 out.log
 
-target/
+/bin/
+.project
+.classpath
 
-*.class
-
-*.classpath
-
-*.project
-
-*.settings
+/target/
+.settings
